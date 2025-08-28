@@ -1,2 +1,2 @@
 add content to file 
-pushing my code in githun
+pushing my code in github
