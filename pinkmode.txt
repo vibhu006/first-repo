@@ -1,1 +1,2 @@
 pinkmode -1
+second pinkmode
